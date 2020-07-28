@@ -6,4 +6,4 @@ Repositório do workshop dado pela Big Data na semana de Inovação da Poli-USP 
 
 
 ## Utilização
-Você pode abrir o notebook utilizado no workshop utilizando o botão acima, ou utilizando o jupyter notebook do seu computador
+Você pode abrir o notebook utilizado no workshop utilizando o botão acima, ou utilizando o jupyter notebook em seu computador
